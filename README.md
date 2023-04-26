@@ -1,4 +1,17 @@
 <h1 align="center">Hi 👋, I'm Gopala Krishnam Raju D</h1>
+
+
+
+
+
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F7D8B8&vCenter=true&width=638&height=100&lines=I+am+a+Full+Stack+Developer;I+am+a+Data+Analyst)](https://git.io/typing-svg)
+
+
+
+
+
 <h3 align="center">Fascinated by real-world data and particularly interested in unravelling its mysteries. A highly disciplined and industrious worker seeking a responsible role to get valuable practical experience.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gopala-03&label=Profile%20views&color=0e75b6&style=flat" alt="gopala-03" /> </p>
