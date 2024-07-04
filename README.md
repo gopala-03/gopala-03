@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gopala Krishnam Raju D</h1>
-<h3 align="center">A passionate Data Analyst</h3>
+<h3 align="center">A passionate Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gopala-03&label=Profile%20views&color=0e75b6&style=flat" alt="gopala-03" /> </p>
-
-- 🔭 I’m currently working on **Fine Tuning Bert for Text Classification and Privacy Preserving Analytics in FL**
-
-- 🌱 I’m currently learning **Java, Advanced Analytics Techniques**
 
 - 📫 How to reach me **krishnamr939@gmail.com**
 
